@@ -1,0 +1,30 @@
+{
+  "name": "freshman",
+  "version": "1.0.0",
+  "description": "Relax, there's a group for you too!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collinsnji/freshman.git"
+  },
+  "keywords": [
+    "freshman",
+    "college",
+    "socket",
+    "cyberbullying"
+  ],
+  "author": "Collin Grimm, Mitt, Jason, Kevin, Rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/collinsnji/freshman/issues"
+  },
+  "homepage": "https://github.com/collinsnji/freshman#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
