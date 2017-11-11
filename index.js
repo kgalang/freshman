@@ -16,6 +16,7 @@ var numUsers = 0;
 io.on('connection', function (socket) {
   var addedUser = false;
   socket.on('new message', function (data) {
+    fs.appendFileSync('logs/logger.txt', `[${new Date()} ${socket.username}]: ${data}\n`, 'utf8');
     socket.broadcast.emit('new message', {
       username: socket.username,
       message: data
