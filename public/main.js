@@ -37,10 +37,16 @@ $(function() {
   
     // Sets the client's username
     function setUsername () {
-      username = cleanInput($usernameInput.val().trim());
+      //validates .edu account
+      if ($usernameInput.val().includes(".edu")) {
+        username = cleanInput($usernameInput.val().trim());
+      } else {
+        console.log("enter .edu email");
+      }
   
       // If the username is valid
       if (username) {
+        console.log(username);
         $loginPage.fadeOut();
         $chatPage.show();
         $loginPage.off('click');
@@ -48,8 +54,11 @@ $(function() {
   
         // Tell the server your username
         socket.emit('add user', username);
-      }
-    }
+      } else {
+        console.log("Enter your .edu email");
+
+      } 
+    } 
   
     // Sends a chat message
     function sendMessage () {
