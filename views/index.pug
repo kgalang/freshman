@@ -2,47 +2,79 @@ extends layout
 
 block content
   .sidebar
-    .clubs__container
+    .clubs__container.br.b--black-10
       a
-        article.club__item.flex.flex-column.flex-row-ns
+        article.club__item.flex.flex-column.flex-row-ns.club--selected.dim.pointer
           .club__padding.pa2.flex.flex-column.flex-row-ns
             .club__avatar.pa2
-              img(src="/img/avatar-1.png", alt="")
+              img(src="/img/avatar-1.png", alt="").img.club__avatar--mw45
             .club__name
-              p.ma2.v-mid Computer Science
+              p.ma2.v-mid.fw5.f6.font-color-1 Everything<br>
+                span.f6.font-color-2.lh-club All groups
+
+      a
+        article.club__item.flex.flex-column.flex-row-ns.dim.pointer
+          .club__padding.pa2.flex.flex-column.flex-row-ns
+            .club__avatar.pa2
+              img(src="/img/avatar-2.png", alt="").img.club__avatar--mw45
+            .club__name
+              p.ma2.v-mid.fw5.f6.font-color-1 Brazilians<br>
+                span.f6.font-color-2.lh-club 12 people
+
+      a
+        article.club__item.flex.flex-column.flex-row-ns.dim.pointer
+          .club__padding.pa2.flex.flex-column.flex-row-ns
+            .club__avatar.pa2
+              img(src="/img/avatar-4.png", alt="").img.club__avatar--mw45
+            .club__name
+              p.ma2.v-mid.fw5.f6.font-color-1 Soccer<br>
+                span.f6.font-color-2.lh-club 7 people
+
+      a
+        article.club__item.flex.flex-column.flex-row-ns.dim.pointer
+          .club__padding.pa2.flex.flex-column.flex-row-ns
+            .club__avatar.pa2
+              img(src="/img/avatar-7.png", alt="").img.club__avatar--mw45
+            .club__name
+              p.ma2.v-mid.fw5.f6.font-color-1 Gay Pride<br>
+                span.f6.font-color-2.lh-club 122 people
+
+      a
+        article.club__item.flex.flex-column.flex-row-ns.dim.pointer
+          .club__padding.pa2.flex.flex-column.flex-row-ns
+            .club__avatar.pa2
+              img(src="/img/avatar-6.png", alt="").img.club__avatar--mw45
+            .club__name
+              p.ma2.v-mid.fw5.f6.font-color-1 China<br>
+                span.f6.font-color-2.lh-club 122 people
             
       a
-        article.club__item.flex.flex-column.flex-row-ns
+        article.club__item.flex.flex-column.flex-row-ns.dim.pointer
           .club__padding.pa2.flex.flex-column.flex-row-ns
             .club__avatar.pa2
-              img(src="/img/avatar-2.png", alt="")
+              img(src="/img/avatar-5.png", alt="").img.club__avatar--mw45
             .club__name
-              p.ma2.v-mid Brazilian Group
-              
-      a      
-        article.club__item.flex.flex-column.flex-row-ns
-          .club__padding.pa2.flex.flex-column.flex-row-ns
-            .club__avatar.pa2
-              img(src="/img/avatar-3.png", alt="")
-            .club__name
-              p.ma2.v-mid Brazilian Group
-              
-      a      
-        article.club__item.flex.flex-column.flex-row-ns
-          .club__padding.pa2.flex.flex-column.flex-row-ns
-            .club__avatar.pa2
-              img(src="/img/avatar-4.png", alt="")
-            .club__name
-              p.ma2.v-mid Brazilian Group
-            
-      article.club__item.flex.flex-column.flex-row-ns
-        .club__padding.pa2.flex.flex-column.flex-row-ns
-          .club__avatar.pa2
-            img(src="/img/avatar-5.png", alt="")
-          .club__name
-            p.ma2.v-mid Brazilian Group
-        
+              p.ma2.v-mid.fw5.f6.font-color-1 Developers<br>
+                span.f6.font-color-2.lh-club 12 people
+
     .summary
+      .post.bb.bt.b--black-10
+        .post__content.pa2.flex
+          span.post-description Crowdfunding for trip to San Francisco Machine Learning Week in December
+        .post__meta.pa2.flex.flex-column
+          .post__avatars.flex
+            span.user-image.tc
+              .user-image-pic
+                img.placeholer.dib.br-100(src='https://randomuser.me/api/portraits/men/20.jpg', alt='', width='28')
+            span.user-image.tc
+              .user-image-pic
+                img.placeholer.dib.br-100(src='https://randomuser.me/api/portraits/men/5.jpg', alt='', width='28')
+            span.user-image.tc
+              .user-image-pic
+                img.placeholer.dib.br-100(src='https://randomuser.me/api/portraits/men/23.jpg', alt='', width='28')
+
+          .post__comments 4 comments
+          
   .app-wrap
     .header
     include messages-wrapper
