@@ -53,10 +53,10 @@ $(function() {
       // If the username is valid
       if (username) {
         console.log(username);
-        $header.fadeIn();
+        $header.delay(400).fadeIn();
         $loginPage.fadeOut();
-        $sidebar.fadeIn();
-        $inputMessage.fadeIn();
+        $sidebar.delay(400).fadeIn();
+        $inputMessage.delay(400).fadeIn();
         $chatPage.show();
         $loginPage.off('click');
         $currentInput = $inputMessage.focus();

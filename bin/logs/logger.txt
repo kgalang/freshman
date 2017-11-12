@@ -1353,6 +1353,7 @@
 [Sun Nov 12 2017 13:35:45 GMT-0500 (EST) kkgalang@gmu.edu]: test
 [Sun Nov 12 2017 13:36:44 GMT-0500 (EST) kkgalang@gmu.edu]: kjl
 >>>>>>> 18fd59fcffd5f273f6029dffcc1b86eef2b951e7
+<<<<<<< HEAD
 [Sun Nov 12 2017 14:07:50 GMT-0500 (EST) dsasa@asd.edu]: asdasd
 [Sun Nov 12 2017 14:07:51 GMT-0500 (EST) dsasa@asd.edu]: asd
 [Sun Nov 12 2017 14:07:52 GMT-0500 (EST) dsasa@asd.edu]: asd
@@ -1367,3 +1368,15 @@
 [Sun Nov 12 2017 14:44:07 GMT-0500 (EST) asdas@adsas.edu]: asd
 [Sun Nov 12 2017 14:44:08 GMT-0500 (EST) asdas@adsas.edu]: sda
 [Sun Nov 12 2017 14:44:09 GMT-0500 (EST) asdas@adsas.edu]: asd
+=======
+[Sun Nov 12 2017 14:13:36 GMT-0500 (EST) kalsjdf@gmu.edu]: kjsdf
+[Sun Nov 12 2017 14:13:36 GMT-0500 (EST) kalsjdf@gmu.edu]: adsf
+[Sun Nov 12 2017 14:13:36 GMT-0500 (EST) kalsjdf@gmu.edu]: as
+[Sun Nov 12 2017 14:13:37 GMT-0500 (EST) kalsjdf@gmu.edu]: df
+[Sun Nov 12 2017 14:13:37 GMT-0500 (EST) kalsjdf@gmu.edu]: asd
+[Sun Nov 12 2017 14:13:37 GMT-0500 (EST) kalsjdf@gmu.edu]: fas
+[Sun Nov 12 2017 14:13:38 GMT-0500 (EST) kalsjdf@gmu.edu]: as
+[Sun Nov 12 2017 14:13:38 GMT-0500 (EST) kalsjdf@gmu.edu]: df
+[Sun Nov 12 2017 14:13:38 GMT-0500 (EST) kalsjdf@gmu.edu]: as
+[Sun Nov 12 2017 14:13:38 GMT-0500 (EST) kalsjdf@gmu.edu]: df
+>>>>>>> 353df92b3c443accdc5b2d2692ef19f50e70b059
