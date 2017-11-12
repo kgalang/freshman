@@ -237,3 +237,7 @@ span.messageBody {
     position: relative;
     margin-left: -10px;
   }
+
+  .post--selected {
+    background-color: #f1f1f1;
+  }
