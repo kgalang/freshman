@@ -61,9 +61,18 @@
     flex-direction: column;
     justify-content: flex-end;
   }
+
+  .chatLimit {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    overflow-y: scroll;
+  }
   
   .page {
     width: 100%;
+    overflow-y: scroll;
   }
   
   /* Login Page */
@@ -110,12 +119,14 @@
   
   .chat.page {
     display: none;
+    width: 100%;
   }
   
   /* Font */
   
   .messages {
     font-size: 150%;
+
   }
   
   .inputMessage {
