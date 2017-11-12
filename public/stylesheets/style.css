@@ -29,7 +29,22 @@
     height: 100%;
     width: 40%;
     background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
   }
+  .clubs{
+    height: 100%;
+    width: 50%;
+    background: #404040;
+  }
+  .summary{
+    height: 100%;
+    width: 50%;
+    background: #202020;
+    flex-grow: 3;
+  }
+
   ul {
     list-style: none;
     word-wrap: break-word;
@@ -40,8 +55,11 @@
   .pages {
     height: 100%;
     margin: 0;
+    display: flex;
     padding: 0;
     width: 100%;
+    flex-direction: column;
+    justify-content: flex-end;
   }
   
   .page {

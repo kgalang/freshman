@@ -21,33 +21,31 @@
 [Sun Nov 12 2017 03:04:05 GMT-0500 (EST) t.me@mail.edu]: hello there again
 [Sun Nov 12 2017 03:42:21 GMT-0500 (EST) schol@mail.edu]: hello world
 [Sun Nov 12 2017 03:58:01 GMT-0500 (EST) collin.grimm@uni.edu]: hello world
-[Sun Nov 12 2017 04:13:03 GMT-0500 (EST) hello@ucl.edu]: hello there
-[Sun Nov 12 2017 06:13:11 GMT-0500 (EST) fsdfdsf@sdasd.edu]: asdasd
-[Sun Nov 12 2017 06:13:11 GMT-0500 (EST) fsdfdsf@sdasd.edu]: asd
-[Sun Nov 12 2017 06:13:12 GMT-0500 (EST) fsdfdsf@sdasd.edu]: as
-[Sun Nov 12 2017 06:13:12 GMT-0500 (EST) fsdfdsf@sdasd.edu]: sd
-[Sun Nov 12 2017 06:13:13 GMT-0500 (EST) fsdfdsf@sdasd.edu]: sda
-[Sun Nov 12 2017 06:18:10 GMT-0500 (EST) fsdfdsf@sdasd.edu]: sadad
-[Sun Nov 12 2017 06:18:11 GMT-0500 (EST) fsdfdsf@sdasd.edu]: asd
-[Sun Nov 12 2017 06:18:11 GMT-0500 (EST) fsdfdsf@sdasd.edu]: sad
-[Sun Nov 12 2017 06:18:12 GMT-0500 (EST) fsdfdsf@sdasd.edu]: asd
-[Sun Nov 12 2017 06:18:14 GMT-0500 (EST) fsdfdsf@sdasd.edu]: asd
-[Sun Nov 12 2017 06:18:15 GMT-0500 (EST) fsdfdsf@sdasd.edu]: asd
-[Sun Nov 12 2017 06:25:20 GMT-0500 (EST) fsdfdsf@sdasd.edu]: bnbnbn
-[Sun Nov 12 2017 06:25:23 GMT-0500 (EST) fsdfdsf@sdasd.edu]: jkjkjkkjjkkkkjljk
-[Sun Nov 12 2017 06:25:25 GMT-0500 (EST) fsdfdsf@sdasd.edu]: kkjljljkkj
-[Sun Nov 12 2017 06:25:26 GMT-0500 (EST) fsdfdsf@sdasd.edu]: jkjklkjj
-[Sun Nov 12 2017 06:25:27 GMT-0500 (EST) fsdfdsf@sdasd.edu]: kjllkjkjl
-[Sun Nov 12 2017 06:25:29 GMT-0500 (EST) fsdfdsf@sdasd.edu]: kjljklkj
-[Sun Nov 12 2017 06:30:33 GMT-0500 (EST) fsdfdsf@sdasd.edu]: dsasa
-[Sun Nov 12 2017 06:30:34 GMT-0500 (EST) fsdfdsf@sdasd.edu]: asd
-[Sun Nov 12 2017 06:30:34 GMT-0500 (EST) fsdfdsf@sdasd.edu]: asd
-[Sun Nov 12 2017 07:01:01 GMT-0500 (EST) sdadas@asd.edu]: asdasd
-[Sun Nov 12 2017 07:01:03 GMT-0500 (EST) sdadas@asd.edu]: sad
-[Sun Nov 12 2017 07:01:03 GMT-0500 (EST) sdadas@asd.edu]: asd
-[Sun Nov 12 2017 07:01:03 GMT-0500 (EST) sdadas@asd.edu]: as
-[Sun Nov 12 2017 07:01:04 GMT-0500 (EST) sdadas@asd.edu]: asd
-[Sun Nov 12 2017 07:01:04 GMT-0500 (EST) sdadas@asd.edu]: asd
-[Sun Nov 12 2017 07:01:05 GMT-0500 (EST) sdadas@asd.edu]: sdasd
-[Sun Nov 12 2017 07:01:06 GMT-0500 (EST) sdadas@asd.edu]: sad
-[Sun Nov 12 2017 07:01:07 GMT-0500 (EST) sdadas@asd.edu]: sda
+[Sun Nov 12 2017 06:06:57 GMT-0500 (EST) collin.grimm@uni.ucl.edu]: here
+[Sun Nov 12 2017 06:24:21 GMT-0500 (EST) grimm@mail.edu]: hello world
+[Sun Nov 12 2017 06:24:29 GMT-0500 (EST) grimm@mail.edu]: this is a test
+[Sun Nov 12 2017 06:26:18 GMT-0500 (EST) hello@uni.edu]: hey there
+[Sun Nov 12 2017 06:26:25 GMT-0500 (EST) hello@uni.edu]: this is fucking working
+[Sun Nov 12 2017 06:26:32 GMT-0500 (EST) hello@uni.edu]: Fuck you biches
+[Sun Nov 12 2017 06:28:52 GMT-0500 (EST) hey.there@uni.edu]: h6igl86i7
+[Sun Nov 12 2017 06:28:57 GMT-0500 (EST) hey.there@uni.edu]: gtiktgt
+[Sun Nov 12 2017 06:29:08 GMT-0500 (EST) hey.there@uni.edu]: bgcg
+[Sun Nov 12 2017 06:30:27 GMT-0500 (EST) hey.there@uni.edu]: sdf
+[Sun Nov 12 2017 06:30:28 GMT-0500 (EST) hey.there@uni.edu]: sdfj
+[Sun Nov 12 2017 06:30:29 GMT-0500 (EST) hey.there@uni.edu]: dfkjbj
+[Sun Nov 12 2017 06:30:30 GMT-0500 (EST) hey.there@uni.edu]: sjkbjdf
+[Sun Nov 12 2017 06:30:31 GMT-0500 (EST) hey.there@uni.edu]: \ffsdjkbjk
+[Sun Nov 12 2017 06:30:31 GMT-0500 (EST) hey.there@uni.edu]: sfjkbjdf
+[Sun Nov 12 2017 06:30:32 GMT-0500 (EST) hey.there@uni.edu]: sjbjsdf
+[Sun Nov 12 2017 06:30:33 GMT-0500 (EST) hey.there@uni.edu]: jkjsf
+[Sun Nov 12 2017 06:30:34 GMT-0500 (EST) hey.there@uni.edu]: bsjfb
+[Sun Nov 12 2017 06:30:34 GMT-0500 (EST) hey.there@uni.edu]: sjfbfksjbf
+[Sun Nov 12 2017 06:30:35 GMT-0500 (EST) hey.there@uni.edu]: sjfbkljbf
+[Sun Nov 12 2017 06:30:36 GMT-0500 (EST) hey.there@uni.edu]: sjbsjkf
+[Sun Nov 12 2017 06:30:37 GMT-0500 (EST) hey.there@uni.edu]: sjbfebn
+[Sun Nov 12 2017 06:30:38 GMT-0500 (EST) hey.there@uni.edu]: sjfbejb
+[Sun Nov 12 2017 06:30:39 GMT-0500 (EST) hey.there@uni.edu]: jsnf
+[Sun Nov 12 2017 06:30:40 GMT-0500 (EST) hey.there@uni.edu]: fsej
+[Sun Nov 12 2017 06:30:42 GMT-0500 (EST) hey.there@uni.edu]: esf
+[Sun Nov 12 2017 06:30:43 GMT-0500 (EST) hey.there@uni.edu]: ekjbef
+[Sun Nov 12 2017 06:31:31 GMT-0500 (EST) hey.there@uni.edu]: ngd
