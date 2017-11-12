@@ -130,6 +130,7 @@
 
   /* Chat page */
 
+
   .chat.page {
     display: none;
     width: 100%;
@@ -138,6 +139,7 @@
   /* Font */
 
   .messages {
+
     font-size: 150%;
   }
 
@@ -146,7 +148,8 @@
   }
 
   .message {
-    display: list-item;
+    display: flex !important;
+    flex-direction: column;
     background: #fff;
     padding: 16px;
     border-radius: 4px;
@@ -179,8 +182,17 @@
     color: gray;
   }
 
+span.messageBody {
+    font-size: 18px;
+    line-height: 1.2;
+}
+
   .username {
     overflow: hidden;
+    align-self: flex-start;
+    margin: 0;
+    font-size: 12px;
+    padding-bottom: 8px;
     padding-right: 15px;
     text-align: right;
   }
