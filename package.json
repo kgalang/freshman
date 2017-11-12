@@ -2,11 +2,12 @@
   "name": "freshman",
   "version": "1.0.0",
   "description": "Relax, there's a group for you too!",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "start": "node index.js",
-    "test": "npm test"
+    "start": "node bin/www",
+    "test": "echo 'TEST PASS"
   },
+  "main": "app.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/collinsnji/freshman.git"
@@ -24,7 +25,13 @@
   },
   "homepage": "https://github.com/collinsnji/freshman#readme",
   "dependencies": {
-    "express": "^4.16.2",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "morgan": "~1.9.0",
+    "pug": "2.0.0-beta11",
+    "serve-favicon": "~2.4.5",
     "socket.io": "^2.0.4"
   }
 }
