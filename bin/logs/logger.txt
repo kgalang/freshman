@@ -1325,6 +1325,7 @@
 [Sun Nov 12 2017 10:19:05 GMT-0500 (EST) .edu]: klj;ljk
 >>>>>>> 04846f35dd53d9f26bf07552ccb79a91338d684e
 [Sun Nov 12 2017 11:45:35 GMT-0500 (EST) hello.me@mail.edu]: hello world
+<<<<<<< HEAD
 [Sun Nov 12 2017 12:38:05 GMT-0500 (EST) sad@sd.edu]: asdasd
 [Sun Nov 12 2017 12:38:06 GMT-0500 (EST) sad@sd.edu]: asd
 [Sun Nov 12 2017 12:38:07 GMT-0500 (EST) sad@sd.edu]: asd
@@ -1345,3 +1346,10 @@
 [Sun Nov 12 2017 13:41:24 GMT-0500 (EST) asdasd@asdas.edu]: sad
 [Sun Nov 12 2017 13:41:24 GMT-0500 (EST) asdasd@asdas.edu]: ads
 [Sun Nov 12 2017 13:41:25 GMT-0500 (EST) asdasd@asdas.edu]: sda
+=======
+[Sun Nov 12 2017 12:27:08 GMT-0500 (EST) kagk;ldjf@gmu.edu]: alkdsjf
+[Sun Nov 12 2017 12:27:09 GMT-0500 (EST) kagk;ldjf@gmu.edu]: lkajsdf
+[Sun Nov 12 2017 12:27:09 GMT-0500 (EST) kagk;ldjf@gmu.edu]: q;lkwejr
+[Sun Nov 12 2017 13:35:45 GMT-0500 (EST) kkgalang@gmu.edu]: test
+[Sun Nov 12 2017 13:36:44 GMT-0500 (EST) kkgalang@gmu.edu]: kjl
+>>>>>>> 18fd59fcffd5f273f6029dffcc1b86eef2b951e7
