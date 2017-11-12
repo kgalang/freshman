@@ -9,13 +9,14 @@ var debug = require('debug')('freshmen:server');
 var http = require('http');
 var server = http.createServer(app);
 var io = require('socket.io')(server);
-
+var fs = require('fs');
+var path = require('path');
 var numUsers = 0;
 
 io.on('connection', function (socket) {
   var addedUser = false;
   socket.on('new message', function (data) {
-    fs.appendFileSync('logs/logger.txt', `[${new Date()} ${socket.username}]: ${data}\n`, 'utf8');
+    fs.appendFileSync(`${__dirname}/logs/logger.txt`, `[${new Date()} ${socket.username}]: ${data}\n`, 'utf8');
     socket.broadcast.emit('new message', {
       username: socket.username,
       message: data
