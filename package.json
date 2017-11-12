@@ -4,7 +4,7 @@
   "description": "Relax, there's a group for you too!",
   "private": true,
   "scripts": {
-    "start": "node bin/www",
+    "start": "node ./bin/www",
     "test": "echo 'TEST PASS",
     "compile-css": "compass compile"
   },
