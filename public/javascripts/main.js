@@ -42,7 +42,7 @@ $(function() {
     function setUsername () {
       //validates .edu account
 
-      if ($usernameInput.val().match(/^(^[a-zA-z])(?=.*@)(?=.*.edu).*$/g)) {
+      if ($usernameInput.val().match(/^(^[a-zA-z])(?=.*@)(?=.*\.edu).*$/g)) {
         username = cleanInput($usernameInput.val().trim());
       } else {
         console.log("enter .edu email");
