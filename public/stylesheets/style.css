@@ -31,6 +31,9 @@
     background-color: #fff;
     display: flex;
     flex-direction: row;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    align-items: stretch;
+    z-index: 1;
     align-items: stretch;
   }
   .clubs{
@@ -43,6 +46,7 @@
     width: 50%;
     background: #202020;
     flex-grow: 3;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   }
 
   ul {
@@ -123,15 +127,15 @@
   }
   
   /* Font */
-  
-  .messages {
-    font-size: 150%;
 
+  .message {
+    display: list-item;
+    background: #fff;
+    padding: 16px;
+    border-radius: 4px;
+    margin: 4px;
   }
-  
-  .inputMessage {
-    font-size: 100%;
-  }
+ 
   
   .log {
     color: gray;
@@ -167,13 +171,15 @@
   /* Input */
   
   .inputMessage {
-    border: 10px solid #000;
+    font-size: 100%;
     bottom: 0;
     height: 60px;
     left: 0;
     outline: none;
     padding-left: 10px;
     right: 0;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     width: 100%;
+    border: none;
   }
   

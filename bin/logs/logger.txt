@@ -358,3 +358,12 @@
 [Sun Nov 12 2017 07:06:27 GMT-0500 (EST) asdas@.edu]: asd
 [Sun Nov 12 2017 07:06:28 GMT-0500 (EST) asdas@.edu]: asd
 >>>>>>> 052e6abf1b6399fabc56a4dcad839ef0e7062cfd
+[Sun Nov 12 2017 09:33:11 GMT-0500 (EST) gz@mail.edu]: test
+[Sun Nov 12 2017 09:39:26 GMT-0500 (EST) grimm@uni.edu]: hey there
+[Sun Nov 12 2017 09:39:31 GMT-0500 (EST) grimm@uni.edu]: how are you
+[Sun Nov 12 2017 09:41:59 GMT-0500 (EST) hello.world@mail.edu]: hell yeah
+[Sun Nov 12 2017 09:45:45 GMT-0500 (EST) collin@mail.edu]: this should work well
+[Sun Nov 12 2017 09:45:53 GMT-0500 (EST) collin@mail.edu]: Yep. It works
+[Sun Nov 12 2017 09:53:38 GMT-0500 (EST) collin@mail.edu]: hella yeah
+[Sun Nov 12 2017 09:54:16 GMT-0500 (EST) collin@mail.edu]: This message should be longer than the norm for testing purposed
+[Sun Nov 12 2017 10:18:11 GMT-0500 (EST) .edu]: hello
