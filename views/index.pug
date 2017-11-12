@@ -1,22 +1,18 @@
 extends layout
 
 block content
-  head
-    meta(charset="UTF-8")
-    title = "Freshman | Login"
   body
     ul.pages
       li.chat.page
         div.chatArea
           ul.messages
         div
-        input.inputMessage(placeholder="Type here...")
+        input.inputMessage(placeholder="Type heresss...")
       li
       li.login.page
         div.form
           h3.titleLog in with your university email
           input.usernameInput(type="text" maxlength="14")
-
-    script(src="https://code.jquery.com/jquery-1.10.2.min.js")
-    script(src="/socket.io/socket.io.js")
-    script(src="/javascripts/main.js")
+  script(src="https://code.jquery.com/jquery-1.10.2.min.js")
+  script(src="/socket.io/socket.io.js")
+  script(src="/javascripts/main.js")
