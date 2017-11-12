@@ -111,8 +111,7 @@ $(function() {
   
       addMessageElement($messageDiv, options);
 
-      $(".page").animate({ scrollTop: $('.messages').height()});
-      //$('.page').scrollTop( $(".messages").height() );
+      $('.page').scrollTop( $(".messages").height() );
     }
   
     // Adds the visual chat typing message
