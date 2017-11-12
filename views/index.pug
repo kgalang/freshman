@@ -1,7 +1,8 @@
 extends layout
 
 block content
-  include inbox-thread-feed
-  include messages-wrapper
-  include thread-wrapper
+  include split-screen/left-posts
+
+  include split-screen/right-down
+  include split-screen/right-top
   include scripts
