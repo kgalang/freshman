@@ -7,8 +7,12 @@
     height: 100%;
     margin: 0;
     padding: 0;
+    background: url(https://images.unsplash.com/photo-1491308056676-205b7c9a7dc1?auto=format&fit=crop&w=1953&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
   }
-  
+  body {
+    display: flex;
+    flex-direction: row;
+  }
   .app-wrap{
     display: flex;
     flex-direction: column;
@@ -20,6 +24,11 @@
     height: 10%;
     background: #000;
     z-index: 10;
+  }
+  .sidebar{
+    height: 100%;
+    width: 40%;
+    background-color: #fff;
   }
   ul {
     list-style: none;
@@ -135,7 +144,6 @@
     left: 0;
     outline: none;
     padding-left: 10px;
-    position: absolute;
     right: 0;
     width: 100%;
   }

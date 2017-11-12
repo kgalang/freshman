@@ -20,3 +20,5 @@
 [Sun Nov 12 2017 03:03:31 GMT-0500 (EST) t.me@mail.edu]: chatys
 [Sun Nov 12 2017 03:04:05 GMT-0500 (EST) t.me@mail.edu]: hello there again
 [Sun Nov 12 2017 03:42:21 GMT-0500 (EST) schol@mail.edu]: hello world
+[Sun Nov 12 2017 03:58:01 GMT-0500 (EST) collin.grimm@uni.edu]: hello world
+[Sun Nov 12 2017 04:13:03 GMT-0500 (EST) hello@ucl.edu]: hello there

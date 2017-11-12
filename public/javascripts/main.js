@@ -8,6 +8,8 @@ $(function() {
     ];
   
     // Initialize variables
+    var $sidebar = $('.sidebar');
+    $sidebar.hide();
     var $window = $(window);
     var $usernameInput = $('.usernameInput'); // Input for username
     var $messages = $('.messages'); // Messages area
@@ -48,6 +50,7 @@ $(function() {
       if (username) {
         console.log(username);
         $loginPage.fadeOut();
+        $sidebar.fadeIn();
         $chatPage.show();
         $loginPage.off('click');
         $currentInput = $inputMessage.focus();
