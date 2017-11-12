@@ -55,7 +55,7 @@
     width: 80%;
     background: #fff;
     flex-grow: 3;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    /*box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);*/
   }
 
   ul {
@@ -75,8 +75,6 @@
     justify-content: flex-end;
   }
 
-<<<<<<< HEAD
-=======
   .chatLimit {
     height: 100%;
     display: flex;
@@ -85,7 +83,6 @@
 
   }
 
->>>>>>> 475471357f35f28e22dd858d928467c71bb2bbbb
   .page {
     width: 100%;
     overflow-y: scroll;
@@ -155,7 +152,7 @@
     border-radius: 4px;
     margin: 4px;
   }
- 
+
 
   .log {
     color: gray;
@@ -217,4 +214,14 @@
 
   .club--selected {
     background-color: #F1F1F1;
+  }
+
+  .placeholder {
+    border: 1px solid white;
+  }
+
+  .user-image-pic {
+    display: inline-block;
+    position: relative;
+    margin-left: -10px;
   }
