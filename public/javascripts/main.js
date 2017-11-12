@@ -41,7 +41,8 @@ $(function() {
     // Sets the client's username
     function setUsername () {
       //validates .edu account
-      if ($usernameInput.val().includes(".edu")) {
+
+      if ($usernameInput.val().match(/^(^[a-zA-z])(?=.*@)(?=.*\.edu).*$/g)) {
         username = cleanInput($usernameInput.val().trim());
       } else {
         console.log("enter .edu email");
@@ -110,6 +111,8 @@ $(function() {
         .append($usernameDiv, $messageBodyDiv);
   
       addMessageElement($messageDiv, options);
+
+      $('.page').scrollTop( $(".messages").height() );
     }
   
     // Adds the visual chat typing message

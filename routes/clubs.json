@@ -1,5 +1,5 @@
 {
-	"The Philippine Cultural Society" : {
+		"The Philippine Cultural Society" : {
 		"description" : "The Philippine Cultural Society is an organization committed to spreading Filipino American culture throughout the GW community through a variety of activities including dance, food, Embassy events, sports and our annual cultural show.",
 		"categories" : ["cultural", "ethnic", "undergraduate"]
 	},
@@ -42,5 +42,5 @@
 	"GW Taekwondo Club" : {
 		"description" : "Trains and competes in the Korean martial art of Taekwondo",
 		"categories" : ["sports", "undergraduate"]
-	},
+	}
 }

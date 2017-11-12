@@ -2,12 +2,8 @@ var express = require('express');
 var router = express.Router();
 
 /* GET users listing. */
-router.post('/', function(req, res, next) {
-  res.render('login');
-  if(req.body.username && req.body.password) {
-        res.redirect("/home");
-        return [req.body.username, req.body.password];
-    }
+router.get('/', function(req, res, next) {
+  res.sendFile(__dirname + '/index.html');
 });
 
 module.exports = router;
