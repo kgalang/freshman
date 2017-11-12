@@ -1,0 +1,46 @@
+{
+	"The Philippine Cultural Society" : {
+		"description" : "The Philippine Cultural Society is an organization committed to spreading Filipino American culture throughout the GW community through a variety of activities including dance, food, Embassy events, sports and our annual cultural show.",
+		"categories" : ["cultural", "ethnic", "undergraduate"]
+	},
+	"George Washington University Men's Club Soccer": {
+		"description" : "A group of dedicated and experienced soccer players that competes regularly against other universities. We hold regular practices, and trying out is required to become a member of the club team.", 
+		"categories" : ["sports", "undergraduate"]
+	},
+	"Racially and Ethnically Mixed Student Association" : {
+		"description" : "A home for those who fill out more than one box on forms asking for race/ethnicity",
+		"categories" : ["cultural", "ethnic", "undergraduate"]
+	},
+	"GW Cyber" : {
+		"description" : "GW Cyber is a student led technical organization at The George Washington University. Our focus is on educating the student body about the security of the entire systems stacks â€“ from computer hardware, to networks, to software. The organizationâ€™s goal is to not only expose students to the vulnerabilities and applications used to exploit information technology, but also to teach students how to better guard themselves against these attacks.GW Cyber is extremely unique, as it is the first entirely student-driven information system, cyber oriented club at GW. Our meetings generally consist of workshops, led by experienced, senior members. They also consist of occasional professional guest speakers, conferences, and events. If you're interested in defending yourself in a technologically driven world, talk to us!",
+		"categories" : ["academic", "graduate", "technology", "undergraduate"]
+	},
+	"African Students Association" : {
+		"description" : "The African Student Association is dedicated to increasing awareness on issues related to Africa at GWU and in our area. We seek to explore a broad range of topics from social and artistic to political and academic. Our goal is to come together to give Africans and those interested in Africa a voice on this campus and to keep ourselves informed and united.",
+		"categories" : ["cultural", "ethnic", "undergraduate"]
+	},
+	"Optical Society of America and International Society for Optical Engineering Student Chapter" : {
+		"description" : "We are a student-run organization at George Washington University interested in the promotion of optical science and technology. Our mission is to provide exciting educational, networking, and outreach activities for the members and the GWU community. Anyone interested in optics and physics is encouraged to attend our events!",
+		"categories" : ["academic", "graduate", "health", "technology", "undergraduate"]
+	},
+	"Allied in Pride" : {
+		"description" : "Through advocacy, social events, service, and support for lesbian, gay, bisexual, transgender and queer/questioning students (LGBTQ), we aim to create a comfortable environment for GW's LGBTQ population, to raise awareness on LGBTQ issues at GW and in the DC Metro Community, and to promote pro-LGBTQ policies at the university level.",
+		"categories" : ["cultural", "ethnic", "undergraduate"]
+	},
+	"George Washington Women's Club Soccer" : {
+		"description" : "The GW Women's Club Soccer Team (GWWCS), established in 2001, provides an opportunity for women to play soccer at a collegiate level while having fun and learning more about the game. The team is composed of competitive and dedicated players who are chosen through selective tryouts held in early September. We compete in Region I of the National Intramural and Recreational Sports Association's (NIRSA) soccer league, against other club teams from universities along the east coast. Practices are held 2-3 times a week and games are played on the weekend during both a fall and spring season.",
+		"categories" : ["sports", "undergraduate"]
+		},
+	"GW Cycling Club" : {
+		"description" : "The goal of the GW Cycling Team is to establish a cycling community among GW students and form a team of riders to compete in regional and intercollegiate cycling races. We are a part of the Atlantic Coast Cycling Conference (ACCC). We lead group rides, teach and encourage proper on and off-road safety and etiquette, and form social ride connections. Teammates will have the added safety and benefit of riding in a group including more experienced riders.",
+		"categories" : ["sports", "undergraduate", "outdoor"]
+	},
+	"Global Health Network" : {
+		"description" : "Our mission is to assist students in exploring their global health interests outside of the classroom, and to make connections with similarly-minded people in other organizations, walks of life, and levels of experience. GHN aims to enrich the student experience for all members with activities that promote: - Professional development and networking - Community involvement within MISPH, GWU, and Washington, DC - Global health education beyond the classroom",
+		"categories" : ["academic", "graduate", "health", "undergraduate"]
+	},
+	"GW Taekwondo Club" : {
+		"description" : "Trains and competes in the Korean martial art of Taekwondo",
+		"categories" : ["sports", "undergraduate"]
+	},
+}

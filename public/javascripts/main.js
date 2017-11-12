@@ -8,6 +8,8 @@ $(function() {
     ];
   
     // Initialize variables
+    var $sidebar = $('.sidebar');
+    $sidebar.hide();
     var $window = $(window);
     var $usernameInput = $('.usernameInput'); // Input for username
     var $messages = $('.messages'); // Messages area
@@ -28,9 +30,9 @@ $(function() {
     function addParticipantsMessage (data) {
       var message = '';
       if (data.numUsers === 1) {
-        message += "there's 1 participant";
+        log(message += "there's 1 participant");
       } else {
-        message += "there are " + data.numUsers + " participants";
+        log(message += "there are " + data.numUsers + " participants");
       }
       log(message);
     }
@@ -48,6 +50,7 @@ $(function() {
       if (username) {
         console.log(username);
         $loginPage.fadeOut();
+        $sidebar.fadeIn();
         $chatPage.show();
         $loginPage.off('click');
         $currentInput = $inputMessage.focus();
@@ -79,9 +82,7 @@ $(function() {
   
     // Log a message
     function log (message, options) {
-      var $el = $('<li>').addClass('log').text(message);
-      console.log(message);
-      addMessageElement($el, options);
+      console.log(message, options);
     }
   
     // Adds the visual chat message to the message list
