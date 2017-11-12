@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  .app-wrap
+    .log-form
+        h2 Login to your account
+        form(action="/home")
+            input(type="text" title="username" placeholder="username")
+            input(type="password" title="username" placeholder="password")
+            button(type="submit" class="btn") Login
+            a(class="forgot" href="#") Forgot Username?
+    include scripts

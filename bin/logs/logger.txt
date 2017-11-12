@@ -9,3 +9,14 @@
 [Sun Nov 12 2017 00:31:16 GMT-0500 (EST) asdasd@edu.edu]: asdasd
 [Sun Nov 12 2017 00:31:18 GMT-0500 (EST) asdasd@edu.edu]: asdasd
 [Sun Nov 12 2017 00:40:38 GMT-0500 (EST) sadas@edu.edu]: fdxdfxfc
+[Sun Nov 12 2017 02:36:25 GMT-0500 (EST) coll.me@ui.edu]: hello world
+[Sun Nov 12 2017 02:38:54 GMT-0500 (EST) hu@d.edu]: hello
+[Sun Nov 12 2017 02:42:27 GMT-0500 (EST) grim@uni.edu]: hey there
+[Sun Nov 12 2017 02:43:40 GMT-0500 (EST) hey@grimm.edu]: hello there
+[Sun Nov 12 2017 02:52:41 GMT-0500 (EST) hey@mail.edu]: hi
+[Sun Nov 12 2017 02:56:59 GMT-0500 (EST) test@mail.edu]: message
+[Sun Nov 12 2017 03:01:39 GMT-0500 (EST) t.me@mail.edu]: hey there
+[Sun Nov 12 2017 03:02:32 GMT-0500 (EST) t.me@mail.edu]: test
+[Sun Nov 12 2017 03:03:31 GMT-0500 (EST) t.me@mail.edu]: chatys
+[Sun Nov 12 2017 03:04:05 GMT-0500 (EST) t.me@mail.edu]: hello there again
+[Sun Nov 12 2017 03:42:21 GMT-0500 (EST) schol@mail.edu]: hello world

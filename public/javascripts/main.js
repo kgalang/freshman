@@ -28,9 +28,9 @@ $(function() {
     function addParticipantsMessage (data) {
       var message = '';
       if (data.numUsers === 1) {
-        message += "there's 1 participant";
+        log(message += "there's 1 participant");
       } else {
-        message += "there are " + data.numUsers + " participants";
+        log(message += "there are " + data.numUsers + " participants");
       }
       log(message);
     }
@@ -79,9 +79,7 @@ $(function() {
   
     // Log a message
     function log (message, options) {
-      var $el = $('<li>').addClass('log').text(message);
-      console.log(message);
-      addMessageElement($el, options);
+      console.log(message, options);
     }
   
     // Adds the visual chat message to the message list
