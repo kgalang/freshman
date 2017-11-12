@@ -5,7 +5,8 @@
   "private": true,
   "scripts": {
     "start": "node bin/www",
-    "test": "echo 'TEST PASS"
+    "test": "echo 'TEST PASS",
+    "compile-css": "compass compile"
   },
   "main": "app.js",
   "repository": {
